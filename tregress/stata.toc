@@ -1,2 +1,5 @@
-v 1
-p tregress.pkg
+0
+1
+2
+3
+p dea Data envelopment analysis
