@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'tregress': Student's t regression model Use tregress With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f tregress.ado
+f tregress.sthlp
+f tregress_ll.ado
+f tregress_p.ado
+f tregress_postestimation.sthlp
