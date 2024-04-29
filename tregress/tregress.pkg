@@ -1,0 +1,8 @@
+v 1
+d tregress. Student's t regression model
+d A.D. Stead, Institute for Transport Studies, University of Leeds
+f src/t/tregress.ado
+f src/t/tregress_ll.ado
+f src/t/tregress_p.ado
+f src/t/tregress.sthlp
+f src/t/tregress_postestimation.sthlp
