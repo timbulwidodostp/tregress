@@ -3,6 +3,8 @@ Student's t regression model Use tregress With STATA 18
 
 maximum likelihood estimation of generalised Student's t regression models Use tregress With STATA 18
 
+https://www.youtube.com/watch?v=pn0epFoz6k4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
